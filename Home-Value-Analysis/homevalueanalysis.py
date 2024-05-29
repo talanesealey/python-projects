@@ -3,7 +3,7 @@ import pandas as pd  # Pandas for data manipulation
 import numpy as np  # Numpy for numerical computations
 
 # File name containing housing data
-filename = "Housing Data Update.csv"
+filename = "HousingData.csv"
 
 # Reading the data from the CSV file into a pandas DataFrame
 Housingdf = pd.read_csv(filename)
