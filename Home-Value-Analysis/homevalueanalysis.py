@@ -1,3 +1,8 @@
+### Home Value Analysis
+# This project delves into predicting home values using Multiple Linear Regression. It aims to understand the train-test process of machine learning for accurate predictions, 
+# evaluate model fit through various methods including kernel density plots, and introduce variable selection techniques such as Recursive Feature Selection and LASSO regression 
+# to identify influential predictors. Through data analysis, this project aims to uncover the key factors affecting home value predictions.
+
 # Importing necessary libraries
 import pandas as pd  # Pandas for data manipulation
 import numpy as np  # Numpy for numerical computations
