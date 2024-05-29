@@ -12,7 +12,7 @@ print("For this program, you will need to install the following modules: \n open
 print("Thank you! Here is the main menu. \n")
 
 #Defining lists, and opening workbook with data to be read using openpyxl.
-wb = load_workbook("SampleDataProject.xlsx")
+wb = load_workbook("sampleCompanyData.xlsx")
 ws = wb['employee']
 
 nameList = ws['A']
