@@ -1,4 +1,4 @@
-# Stock Data Analysis Project
+# Stock Value Analysis Project
 
 This project involves analyzing daily closing stock prices for five companies: Exxon (XOM), Canadian Solar (CSIQ), Intel (INTC), Walmart (WMT), and Palantir (PLTR). 
 The analysis leverages Python's Pandas library for data manipulation and Matplotlib for visualization.
@@ -20,6 +20,6 @@ The analysis leverages Python's Pandas library for data manipulation and Matplot
 
 ### Project Structure
 
-- `Stock_Data_Analysis.ipynb`: Main notebook containing the analysis.
+- `stockvalueanalysis.ipynb`: Main notebook containing the analysis.
 - `Stock_Data.csv`: Sample data file used for analysis.
 - `README.md`: Project description and instructions.
