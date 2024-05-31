@@ -8,8 +8,8 @@ The project consists of the following files:
 - README.md: This file, providing an overview of the project and its components.
 
 ## Modules Used
-pandas
-numpy
-scikit-learn
-seaborn
-matplotlib
+- pandas
+- numpy
+- scikit-learn
+- seaborn
+- matplotlib
