@@ -6,7 +6,7 @@ This repository will continuously be updated to showcase my continuing work and 
 ## About the Projects:
 Each project in this repository is a testament to my ability to tackle diverse data-related challenges. These projects include:
 
-- Exploratory Data Analysis: Uncovering insights from datasets using techniques like data cleaning, transformation, and visualization.
+- Exploratory Data Analysis: Uncovering insights from datasets using techniques like data cleaning, manipulation, and visualization.
 - Statistical Analysis: Applying statistical methods to understand data distributions, relationships, and trends.
 - Machine Learning: Building predictive models using algorithms such as regression, classification, clustering, and more.
 - Data Visualization: Creating compelling visual representations of data to communicate findings effectively.
